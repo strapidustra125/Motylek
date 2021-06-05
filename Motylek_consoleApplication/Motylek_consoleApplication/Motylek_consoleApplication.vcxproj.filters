@@ -23,5 +23,8 @@
     <Text Include="characteristics.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
+    <Text Include="tempCode.txt">
+      <Filter>Исходные файлы</Filter>
+    </Text>
   </ItemGroup>
 </Project>

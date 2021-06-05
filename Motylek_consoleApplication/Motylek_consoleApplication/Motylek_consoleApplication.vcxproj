@@ -143,6 +143,7 @@
   </ItemGroup>
   <ItemGroup>
     <Text Include="characteristics.txt" />
+    <Text Include="tempCode.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
